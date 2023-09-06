@@ -1,6 +1,5 @@
 # Reto2-Telematicas
 
-# Reto2-Top_telematica
 # info de la materia: ST0263
 
 # Estudiante(s):
