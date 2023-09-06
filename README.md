@@ -16,10 +16,10 @@
 Este proyecto consiste en construir un sistema de administración de archivos usando microservicios. Hay dos microservicios principales: mserv1 para listar archivos y mserv2 para buscar archivos. Estos microservicios se comunican mediante gRPC y, si hay problemas, a través de RabbitMQ. Se ha creado un API Gateway con Flask para que los usuarios puedan listar y buscar archivos de manera sencilla a través de endpoints de API REST.
 
 # 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
-Lanzamiento de instancia de AWS.
-Configuracion de reglas de seguridad de la instacia 
-Comunicacion de las ip con listar archivos
-interaccion de micro servicios
+- Lanzamiento de instancia de AWS.
+- Configuracion de reglas de seguridad de la instacia 
+- Comunicacion de las ip con listar archivos
+- interaccion de micro servicios
 
 ![image](https://github.com/camosquerp/Reto2-Telematicas/assets/68928380/159d3558-b6a7-49ed-bd70-a9d4b623687c)
 
@@ -56,22 +56,22 @@ Manejo de Fallos: En caso de problemas de comunicación gRPC, utiliza RabbitMQ p
 Para este proyecto se usa el legnuaje de programacion pyhton 
 
 ## librerias 
-grpc,flask,pika 
-blinker==1.6.2
-click==8.1.7
-colorama==0.4.6
-Flask==2.3.2
-grpcio==1.57.0
-grpcio-tools==1.57.0
-importlib-metadata==6.8.0
-itsdangerous==2.1.2
-Jinja2==3.1.2
-MarkupSafe==2.1.3
-pika==1.3.2
-protobuf==4.24.1
-python-dotenv==1.0.0
-Werkzeug==2.3.7
-zipp==3.16.2
+- grpc,flask,pika 
+- blinker==1.6.2
+- click==8.1.7
+- colorama==0.4.6
+- Flask==2.3.2
+- grpcio==1.57.0
+- grpcio-tools==1.57.0
+- importlib-metadata==6.8.0
+- itsdangerous==2.1.2
+- Jinja2==3.1.2
+- MarkupSafe==2.1.3
+- pika==1.3.2
+- protobuf==4.24.1
+- python-dotenv==1.0.0
+- Werkzeug==2.3.7
+- zipp==3.16.2
 
 # Referencias:
 
