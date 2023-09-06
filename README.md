@@ -18,11 +18,14 @@ Este proyecto consiste en construir un sistema de administración de archivos us
 # 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 Lanzamiento de instancia de AWS.
 Configuracion de reglas de seguridad de la instacia 
+Comunicacion de las ip con lostar archivos
+interaccion de micro servicios
 
+![image](https://github.com/camosquerp/Reto2-Telematicas/assets/68928380/159d3558-b6a7-49ed-bd70-a9d4b623687c)
 
 # 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
-No se logro la implementacion de la API Gateway para manejar las solicitudes de los usarios 
-No hya interaccion de los microservicios
+No se logro la implementacion de la API Gateway para manejar de buscar_archivos
+
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 Descripción del Sistema:
