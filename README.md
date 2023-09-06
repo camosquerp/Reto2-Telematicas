@@ -18,7 +18,7 @@ Este proyecto consiste en construir un sistema de administración de archivos us
 # 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 Lanzamiento de instancia de AWS.
 Configuracion de reglas de seguridad de la instacia 
-Comunicacion de las ip con lostar archivos
+Comunicacion de las ip con listar archivos
 interaccion de micro servicios
 
 ![image](https://github.com/camosquerp/Reto2-Telematicas/assets/68928380/159d3558-b6a7-49ed-bd70-a9d4b623687c)
