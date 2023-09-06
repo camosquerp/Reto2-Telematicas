@@ -6,7 +6,7 @@ import archivo_pb2_grpc
 class ArchivoServicer(archivo_pb2_grpc.ArchivoServicer):
     def BuscarArchivos(self, request, context):
         # Lógica para buscar archivos en mserv2
-        return archivo_pb2.ArchivoLista(archivos=['archivo1.txt'])
+        return archivo_pb2.ArchivoLista(archivos=[])
 
 def main():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
